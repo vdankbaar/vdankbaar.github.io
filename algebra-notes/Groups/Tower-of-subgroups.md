@@ -6,10 +6,10 @@ $$G=G_n\subset G_{n-1}\subset\dots\subset G_1\subset G_0$$
 A tower is [Normal](./Normal.md) if each of the subgroups in the tower is [Normal](./Normal.md).  
   
 ## Abelian (Commutative)  
-A tower is [Abelian (Commutative)](../Commutativity%20(Abelian).md) if it is normal and if each [Factor Group (Modulo)](./Factor%20Group%20(Modulo).md) $G_i/G_{i+1}$ is [Abelian (Commutative)](../Commutativity%20(Abelian).md).  
+A tower is [Abelian (Commutative)](../Commutativity-(Abelian).md) if it is normal and if each [Factor Group (Modulo)](./Factor-Group-(Modulo).md) $G_i/G_{i+1}$ is [Abelian (Commutative)](../Commutativity-(Abelian).md).  
 ## Solvable  
 A tower is solvable if:  
-- It is [Abelian (Commutative)](../Commutativity%20(Abelian).md)  
+- It is [Abelian (Commutative)](../Commutativity-(Abelian).md)  
 - Its last [Subgroups](./Subgroup.md) (eg. $G_n$) is [Trivial](./Subgroup.md#Trivial).  
   
 ## Refinement  
