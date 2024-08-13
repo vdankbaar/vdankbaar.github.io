@@ -1,2 +1,0 @@
-## _Questions  
-1. In [Tower of subgroups](./Groups/Tower-of-subgroups.md) what does resp. cyclic refer to?

@@ -1,4 +1,9 @@
-## Image  
+---  
+date created: Sunday, August 4th 2024, 5:38:06 pm  
+date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+title: Image  
+---  
+# Image  
 With a [Group-homomorphism](./Morphisms/Group-homomorphism.md) $f: G \rightarrow G'$  
 The image $H'$ is a [Subgroup](./Subgroup.md) of $G'$ that contains all the elements that $f$ maps to.  
 So it contains at least:  

@@ -1,4 +1,9 @@
-## Coset  
+---  
+date created: Monday, August 5th 2024, 2:02:47 pm  
+date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+title: Coset  
+---  
+# Coset  
 With [Group](./Group.md) $G$, a [Subgroup](./Subgroup.md) $H$ and element $a$ in $G$:  
 A left coset is of the form $aH$.  
 A right coset is of the form $Ha$.  

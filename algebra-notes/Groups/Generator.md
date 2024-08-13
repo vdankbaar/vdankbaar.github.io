@@ -1,4 +1,9 @@
-## Generator  
+---  
+date created: Thursday, August 1st 2024, 7:37:06 pm  
+date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+title: Generator  
+---  
+# Generator  
 With a [Group](./Group.md) $G$ and a [Subset](../Sets/Subset.md) of $G$ called $S$,  
 The [Subset](../Sets/Subset.md) $S$ generates $G$ if all elements of $G$ can be expressed as a product of elements of $S$ and their inverses.  
 The [Set](../Sets/Set.md) of these various products becomes a [Subgroup](./Subgroup.md) of $G$ itself (the empty product is the [Unit Element](../Unit-Element.md)).  
