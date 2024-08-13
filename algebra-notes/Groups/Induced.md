@@ -1,0 +1,1 @@
+An induced [Homomorphism](../Monoids/Morphisms/Homomorphism.md) is constructed from an existing [Homomorphism](../Monoids/Morphisms/Homomorphism.md) but with a different context (e.g., from groups to quotient groups). The induced [Homomorphism](../Monoids/Morphisms/Homomorphism.md) preserves the structure in a way that is consistent with the original.
