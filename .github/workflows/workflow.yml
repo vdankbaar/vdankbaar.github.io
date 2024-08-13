@@ -9,21 +9,25 @@ jobs:
       # To use this repository's private action,
       # you must check out the repository
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: main
-
-      - name: Generate Directory Listings
+    - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@main
         with:
           FOLDER: algebra-notes
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
         with:
-          # Upload generator folder
           path: algebra-notes
-
+      - name: Build
+        uses: actions/jekyll-build-pages@v1
+        with:
+          path: algebra-notes
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: algebra-notes
   deploy:
     needs: pages-directory-listing
     permissions:
@@ -40,4 +44,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
