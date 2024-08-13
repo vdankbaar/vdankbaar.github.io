@@ -14,12 +14,16 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build
         uses: actions/jekyll-build-pages@v1
+        with:
+          destination: "./pages"
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@main
         with:
-          FOLDER: '.'
+          FOLDER: './pages'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./output"
   deploy:
     needs: pages-directory-listing
     permissions:
