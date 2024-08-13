@@ -1,9 +1,7 @@
 # Welcome to vdankbaar.github.io
-This is the main page.
+You can find my notes here.
 
-## Subpages
-Below are all the subpages.
-
+## Notes
 |Topic|Link|
 |:---:|:---:|
 |Algebra|[book notes](https://vdankbaar.github.io/algebra-notes)|
