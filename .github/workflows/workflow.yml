@@ -1,6 +1,7 @@
 name: main
 on: [push]
-
+plugins:
+  - jekyll-relative-links
 jobs:
   pages-directory-listing:
     runs-on: ubuntu-latest
