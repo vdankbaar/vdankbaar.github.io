@@ -1,4 +1,9 @@
-## Embedding  
+---  
+date created: Sunday, August 4th 2024, 6:29:59 pm  
+date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+title: Embedding  
+---  
+# Embedding  
 For a given [Group-homomorphism](./Morphisms/Group-homomorphism.md) $f: G \rightarrow G'$:   
 If there is a [Group-isomorphism](./Morphisms/Group-isomorphism.md) $G \rightarrow Im(f)$, it is called an embedding.  
   
