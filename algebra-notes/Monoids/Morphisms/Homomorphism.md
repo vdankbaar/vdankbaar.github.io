@@ -1,4 +1,9 @@
-## Homomorphism  
+---  
+date created: Friday, August 2nd 2024, 1:59:25 pm  
+date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+title: Homomorphism  
+---  
+# Homomorphism  
 With [Monoids](../Monoid.md) $G$ and $G'$, a homomorphism (aka. monoid-homomorphism) is a mapping $f: G\rightarrow G'$ such that:  
 $$f(xy) = f(x)f(y)$$  
 Simply put, composing elements before mapping is equivalent to mapping first and then composing.  
