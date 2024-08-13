@@ -1,4 +1,9 @@
-## Group-homomorphism  
+---  
+date created: Friday, August 2nd 2024, 2:12:25 pm  
+date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+title: Group-homomorphism  
+---  
+# Group-homomorphism  
 Group-homomorphism works similar to [Monoid-homomorphism](../../Monoids/Morphisms/Homomorphism.md) except it uses [Groups](../Group.md) for $G$ and $G'$.  
 Additionally:  
 With Group-homomorphism $f: G\rightarrow G'$:  
