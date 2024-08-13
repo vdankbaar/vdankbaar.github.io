@@ -1,7 +1,8 @@
 name: main
-on: [push]
-branches:
-  - main
+on:
+  push:
+    branches:
+      - main
 jobs:
   pages-directory-listing:
     runs-on: ubuntu-latest
