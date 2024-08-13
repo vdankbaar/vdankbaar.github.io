@@ -4,7 +4,7 @@ date modified: Tuesday, August 13th 2024, 2:58:33 pm
 title: Factor Group (Modulo)  
 ---  
 # Factor Group (Modulo)  
-With a [Group](./Group.md) $G$ and a [Normal](./Subgroup.md#Normal) [Subgroup](./Subgroup.md) $H$,  
+With a [Group](./Group.md) $G$ and a [Normal](./Subgroup.md#normal) [Subgroup](./Subgroup.md) $H$,  
 The [Group](./Group.md) of [Cosets](./Coset.md) of $H$ is denoted by $G/H$.  
 This is read as:  
 - $G$ modulo $H$  

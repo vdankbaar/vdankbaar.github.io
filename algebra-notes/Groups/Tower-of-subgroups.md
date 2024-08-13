@@ -16,7 +16,7 @@ A tower is [Abelian (Commutative)](../Commutativity-(Abelian).md) if it is norma
 ## Solvable  
 A tower is solvable if:  
 - It is [Abelian (Commutative)](../Commutativity-(Abelian).md)  
-- Its last [Subgroups](./Subgroup.md) (eg. $G_n$) is [Trivial](./Subgroup.md#Trivial).  
+- Its last [Subgroups](./Subgroup.md) (eg. $G_n$) is [Trivial](./Subgroup.md#trivial).  
   
 ## Refinement  
 A refinement of a tower is a new tower where a finite number of subgroups are inserted into the existing tower. This 'refines' the tower by making it more detailed.

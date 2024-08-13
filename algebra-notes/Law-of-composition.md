@@ -1,6 +1,6 @@
 ---  
 date created: Thursday, August 1st 2024, 6:12:21 pm  
-date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+date modified: Tuesday, August 13th 2024, 3:03:09 pm  
 title: Law of Composition  
 ---  
 # Law of Composition  
