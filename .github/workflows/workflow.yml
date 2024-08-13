@@ -12,20 +12,12 @@ jobs:
           ref: main
       - name: Setup Pages
         uses: actions/configure-pages@v5
-        with:
-          path: algebra-notes
       - name: Build
         uses: actions/jekyll-build-pages@v1
-        with:
-          path: algebra-notes
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@main
-        with:
-          FOLDER: algebra-notes
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-        with:
-          path: algebra-notes
   deploy:
     needs: pages-directory-listing
     permissions:
