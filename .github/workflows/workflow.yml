@@ -1,21 +1,29 @@
-name: directory-listing
+name: main
 on: [push]
 
 jobs:
   pages-directory-listing:
     runs-on: ubuntu-latest
-    name: Directory Listings Index
+    name: Run Actions Template
     steps:
-      - name: Generate Directory Listings
-        uses: jayanta525/github-pages-directory-listing@v4.0.0
+      # To use this repository's private action,
+      # you must check out the repository
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          FOLDER: 'algebra-notes'      #directory to generate index
+          ref: main
+
+      - name: Generate Directory Listings
+        uses: jayanta525/github-pages-directory-listing@main
+        with:
+          FOLDER: algebra-notes
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: '/'      # upload generated folder
-  
+          # Upload generator folder
+          path: algebra-notes
+
   deploy:
     needs: pages-directory-listing
     permissions:
