@@ -1,3 +1,4 @@
+## Coset  
 With [Group](./Group.md) $G$, a [Subgroup](./Subgroup.md) $H$ and element $a$ in $G$:  
 A left coset is of the form $aH$.  
 A right coset is of the form $Ha$.  

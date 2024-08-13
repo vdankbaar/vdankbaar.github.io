@@ -1,3 +1,4 @@
+## Factor Group (Modulo)  
 With a [Group](./Group.md) $G$ and a [Normal](./Subgroup.md#Normal) [Subgroup](./Subgroup.md) $H$,  
 The [Group](./Group.md) of [Cosets](./Coset.md) of $H$ is denoted by $G/H$.  
 This is read as:  
