@@ -1,4 +1,9 @@
-## Group-isomorphism  
+---  
+date created: Sunday, August 4th 2024, 3:39:01 pm  
+date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+title: Group-isomorphism  
+---  
+# Group-isomorphism  
 Group-isomorphism works similar to [Monoid-isomorphism](../../Monoids/Morphisms/Isomorphism.md).  
   
 Additionally:  
