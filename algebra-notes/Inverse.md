@@ -5,7 +5,7 @@ title: Inverse
 ---  
 # Inverse  
 The inverse of an element $x$ in [Set](./Sets/Set.md) $G$ is an element $y$ in $G$ such that $xy=e$.  
-With $e$ being the [Unit Element](./Unit%252520Element.md).  
+With $e$ being the [Unit Element](./Unit%2520Element.md).  
 ## Inverse Notation  
-$x^{-1}$ with multiplication as the [Law of composition](./Law%252520of%252520composition.md).  
-$-x$ with addition as the [Law of composition](./Law%252520of%252520composition.md).
+$x^{-1}$ with multiplication as the [Law of composition](./Law%2520of%2520composition.md).  
+$-x$ with addition as the [Law of composition](./Law%2520of%2520composition.md).
