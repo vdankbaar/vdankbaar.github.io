@@ -1,8 +1,7 @@
 ---  
 date created: Sunday, August 4th 2024, 6:29:59 pm  
-date modified: Thursday, August 15th 2024, 12:32:10 pm  
+date modified: Thursday, August 15th 2024, 1:15:09 pm  
 title: Embedding  
-url_encoded_title: Embedding  
 ---  
 # Embedding  
 For a given [Group-homomorphism](./Morphisms/Group-homomorphism.md) $f: G \rightarrow G'$:   
