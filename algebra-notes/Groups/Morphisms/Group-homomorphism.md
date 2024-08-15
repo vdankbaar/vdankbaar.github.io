@@ -1,6 +1,6 @@
 ---  
 date created: Friday, August 2nd 2024, 2:12:25 pm  
-date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+date modified: Thursday, August 15th 2024, 12:32:10 pm  
 title: Group-homomorphism  
 url_encoded_title: Group-homomorphism  
 ---  
