@@ -2,6 +2,7 @@
 date created: Friday, August 2nd 2024, 2:24:27 pm  
 date modified: Tuesday, August 13th 2024, 2:58:33 pm  
 title: Isomorphism  
+url_encoded_title: Isomorphism  
 ---  
 # Isomorphism  
 With [Monoids](../Monoid.md) $G$ and $G'$,  
