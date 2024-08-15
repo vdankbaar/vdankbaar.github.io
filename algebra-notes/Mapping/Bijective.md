@@ -1,8 +1,7 @@
 ---  
 date created: Friday, August 2nd 2024, 2:26:27 pm  
-date modified: Thursday, August 15th 2024, 12:32:10 pm  
+date modified: Thursday, August 15th 2024, 1:15:09 pm  
 title: Bijective  
-url_encoded_title: Bijective  
 ---  
 # Bijective  
 In both [Sets](../Sets/Set.md) all elements are mapped to/from.  

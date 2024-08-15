@@ -1,8 +1,7 @@
 ---  
 date created: Friday, August 2nd 2024, 2:12:25 pm  
-date modified: Thursday, August 15th 2024, 12:32:10 pm  
+date modified: Thursday, August 15th 2024, 1:15:09 pm  
 title: Group-homomorphism  
-url_encoded_title: Group-homomorphism  
 ---  
 # Group-homomorphism  
 Group-homomorphism works similar to [Monoid-homomorphism](../../Monoids/Morphisms/Homomorphism.md) except it uses [Groups](../Group.md) for $G$ and $G'$.  

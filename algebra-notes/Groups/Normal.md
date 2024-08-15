@@ -1,8 +1,7 @@
 ---  
 date created: Saturday, August 10th 2024, 2:33:05 pm  
-date modified: Thursday, August 15th 2024, 12:32:10 pm  
+date modified: Thursday, August 15th 2024, 1:15:09 pm  
 title: Normal  
-url_encoded_title: Normal  
 ---  
 # Normal  
 With [Group](./Group.md) $G$ and [Subgroup](./Subgroup.md) $H$ of $G$,  
@@ -13,8 +12,8 @@ This means that an element from $H$ will still be in $H$ after commuting with an
 > With a [Set](../Sets/Set.md) $G'$ of [Cosets](./Coset.md) as defined by the normal subgroup $H$,  
 > if $xH$ and $yH$ are cosets then $xHyH$ is also a coset as:  
 > $$xHyH = xyHH=xyH$$ This makes $G'$ a [Group](./Group.md) as:  
-> 1. This product of [Cosets](./Coset.md) can be seen as an [associative](../Associativity.md) [Law of composition](../Law-of-composition.md) on $G'$.  
-> 2. The [Cosets](./Coset.md) $H$ can be seen as a [Unit Element](../Unit-Element.md) under this [Law of composition](../Law-of-composition.md).  
+> 1. This product of [Cosets](./Coset.md) can be seen as an [associative](../Associativity.md) [Law of composition](../Law%252520of%252520composition.md) on $G'$.  
+> 2. The [Cosets](./Coset.md) $H$ can be seen as a [Unit Element](../Unit%252520Element.md) under this [Law of composition](../Law%252520of%252520composition.md).  
 > 3. There is a notion of inverses as $x^{-1}H$ is the [Inverse](../Inverse.md) of $xH$.  
 >   
 > So $G'$ meets all the requirements to be a [Group](./Group.md).  
@@ -23,6 +22,6 @@ This means that an element from $H$ will still be in $H$ after commuting with an
 >With element $x$ in $G$ and $xH$ being a [Cosets](./Coset.md): $$f(x)=xH$$  
 >We can find the [Kernel](./Kernel.md) of $f$ by determining for what $x$: $f(x)=H$  
 >In combination with the definition of $f$ it follows: $xH=H$  
->As $H$ is the [Unit Element](../Unit-Element.md) $H=HH$. From this it follows that $xH=HH$ and $x=H$.  
+>As $H$ is the [Unit Element](../Unit%252520Element.md) $H=HH$. From this it follows that $xH=HH$ and $x=H$.  
 >In conclusion, the normal subgroup $H$ is the [Kernel](./Kernel.md) of our [Group-homomorphism](./Morphisms/Group-homomorphism.md) $f$.  
   
