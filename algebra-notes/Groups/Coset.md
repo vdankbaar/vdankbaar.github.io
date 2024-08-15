@@ -1,6 +1,6 @@
 ---  
 date created: Monday, August 5th 2024, 2:02:47 pm  
-date modified: Tuesday, August 13th 2024, 2:58:33 pm  
+date modified: Thursday, August 15th 2024, 12:32:10 pm  
 title: Coset  
 url_encoded_title: Coset  
 ---  
@@ -20,5 +20,5 @@ The number of cosets is called the index of $H$ in $G$.
 It is denoted by $(G:H)$  
 The index of the trivial [Subgroup](./Subgroup.md) is called the [Order](./Order.md) can be denoted by $(G:1)$.  
   
-Example of the cosets produced by [Subgroup](./Subgroup.md) $H: \{0,4\}$ under the [Additive](../Law%2520of%2520composition.md#additive) [Group](./Group.md) $Z_8$.  
+Example of the cosets produced by [Subgroup](./Subgroup.md) $H: \{0,4\}$ under the [Additive](../Law-of-composition.md#additive) [Group](./Group.md) $Z_8$.  
 ![Coset.svg](../_images/Coset.svg)
