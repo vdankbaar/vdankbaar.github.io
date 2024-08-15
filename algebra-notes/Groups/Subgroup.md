@@ -5,8 +5,8 @@ title: Subgroup
 ---  
 # Subgroup  
 A subset $H$ is a subgroup of [Group](./Group.md) $G$ if:  
-- $H$ contains the [Unit Element](../Unit%2520Element.md)  
-- $H$ is [Closed](../Closure.md#closed-under-law-of-composition) under $G$'s [Law of composition](../Law%2520of%2520composition.md)  
+- $H$ contains the [Unit Element](../Unit20Element.md)  
+- $H$ is [Closed](../Closure.md#closed-under-law-of-composition) under $G$'s [Law of composition](../Law20of20composition.md)  
 - $H$ is [Closed](../Closure.md#closed-under-inverse) under inverse  
 ## Trivial  
-A subgroup is trivial if it only consists of the [Unit Element](../Unit%2520Element.md).  
+A subgroup is trivial if it only consists of the [Unit Element](../Unit20Element.md).  

@@ -8,7 +8,7 @@ An element $e$ in [Set](./Sets/Set.md) $S$ that for all $x$ in $S$:
 $$ex = x = xe$$  
 This includes a commonly used step:  
 $$e=ee$$  
-$S$ is a [Set](./Sets/Set.md) that has a [Law of composition](./Law%2520of%2520composition.md).  
+$S$ is a [Set](./Sets/Set.md) that has a [Law of composition](./Law20of20composition.md).  
 ## Examples of Unit Elements  
-- 1 for the [Set](./Sets/Set.md) with multiplication as its [Law of composition](./Law%2520of%2520composition.md)  
-- 0 for the [Set](./Sets/Set.md) with addition as its [Law of composition](./Law%2520of%2520composition.md)
+- 1 for the [Set](./Sets/Set.md) with multiplication as its [Law of composition](./Law20of20composition.md)  
+- 0 for the [Set](./Sets/Set.md) with addition as its [Law of composition](./Law20of20composition.md)

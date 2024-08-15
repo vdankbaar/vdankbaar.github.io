@@ -4,5 +4,5 @@ date modified: Thursday, August 15th 2024, 1:15:09 pm
 title: Canonical Map  
 ---  
 # Canonical Map  
-With a [Group](./Group.md) $G$ and a [Factor Group (Modulo)](./Factor%2520Group%2520%2528Modulo%2529.md) $G/H$,  
+With a [Group](./Group.md) $G$ and a [Factor Group (Modulo)](./Factor20Group2028Modulo29.md) $G/H$,  
 The [Map](../Mapping/Map.md) of $G\rightarrow G/H$ is called the Canonical Map.

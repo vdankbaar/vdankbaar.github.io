@@ -15,5 +15,5 @@ With $x$ and $y$ in $G$,
 $x$ and $y$ being in the same coset of $H$ is denoted by: $x\equiv y$ (mod $H$)  
 This is read as "$x$ and $y$ are congruent modulo $H$".  
 Another way to say this is:  
-- $xy^{-1}$ lies in $H$ for a multiplicative [Law of composition](../Law%2520of%2520composition.md)  
-- $x-y$ lies in $H$ for an additive [Law of composition](../Law%2520of%2520composition.md)
+- $xy^{-1}$ lies in $H$ for a multiplicative [Law of composition](../Law20of20composition.md)  
+- $x-y$ lies in $H$ for an additive [Law of composition](../Law20of20composition.md)
