@@ -1,4 +1,4 @@
-remote_theme: pages-themes/midnight@v0.2.0
+title: Vincent's Notes
+description: All my notes in webpage format :)
 plugins:
-- jekyll-remote-theme
 - jekyll-relative-links
