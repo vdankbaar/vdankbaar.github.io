@@ -1,8 +1,7 @@
 ---  
 date created: Friday, August 2nd 2024, 2:24:27 pm  
-date modified: Thursday, August 15th 2024, 12:32:10 pm  
+date modified: Thursday, August 15th 2024, 1:15:09 pm  
 title: Isomorphism  
-url_encoded_title: Isomorphism  
 ---  
 # Isomorphism  
 With [Monoids](../Monoid.md) $G$ and $G'$,  
