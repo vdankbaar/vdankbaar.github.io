@@ -11,15 +11,15 @@ $$G=G_n\subset G_{n-1}\subset\dots\subset G_1\subset G_0$$
 A tower is [Normal](../Groups/Normal.md) if each of the subgroups in the tower is [Normal](../Groups/Normal.md).  
   
 ## Abelian (Commutative)  
-A tower is [Abelian (Commutative)](../Commutativity%252520%2528Abelian%2529.md) if it is normal and if each [Factor Group (Modulo)](../Groups/Factor%252520Group%252520%2528Modulo%2529.md) $G_i/G_{i+1}$ is [Abelian (Commutative)](../Commutativity%252520%2528Abelian%2529.md).  
+A tower is [Abelian (Commutative)](../Commutativity%2520%2528Abelian%2529.md) if it is normal and if each [Factor Group (Modulo)](../Groups/Factor%2520Group%2520%2528Modulo%2529.md) $G_i/G_{i+1}$ is [Abelian (Commutative)](../Commutativity%2520%2528Abelian%2529.md).  
   
 ## Cyclic  
-A tower is [Cyclic](../Groups/Cyclic.md) if it is [Normal](../Groups/Normal.md) and if each [Factor Group (Modulo)](../Groups/Factor%252520Group%252520%2528Modulo%2529.md) $G_i/G_{i+1}$ is [Cyclic](../Groups/Cyclic.md).  
+A tower is [Cyclic](../Groups/Cyclic.md) if it is [Normal](../Groups/Normal.md) and if each [Factor Group (Modulo)](../Groups/Factor%2520Group%2520%2528Modulo%2529.md) $G_i/G_{i+1}$ is [Cyclic](../Groups/Cyclic.md).  
 ## Solvable  
 A tower is solvable if:  
-- It is [Abelian (Commutative)](../Commutativity%252520%2528Abelian%2529.md)  
+- It is [Abelian (Commutative)](../Commutativity%2520%2528Abelian%2529.md)  
 - Its last [Subgroups](../Groups/Subgroup.md) (eg. $G_n$) is [Trivial](../Groups/Subgroup.md#trivial).  
   
->[!info] Solvability of [Group](../Groups/Group.md), [Subgroups](../Groups/Subgroup.md) and [Factor Group (Modulo)](../Groups/Factor%252520Group%252520%2528Modulo%2529.md)  
-> With a [Group](../Groups/Group.md) $G$, [Normal](../Groups/Normal.md) [Subgroups](../Groups/Subgroup.md) $H$ and a [Factor Group (Modulo)](../Groups/Factor%252520Group%252520%2528Modulo%2529.md) $G/H$:  
+>[!info] Solvability of [Group](../Groups/Group.md), [Subgroups](../Groups/Subgroup.md) and [Factor Group (Modulo)](../Groups/Factor%2520Group%2520%2528Modulo%2529.md)  
+> With a [Group](../Groups/Group.md) $G$, [Normal](../Groups/Normal.md) [Subgroups](../Groups/Subgroup.md) $H$ and a [Factor Group (Modulo)](../Groups/Factor%2520Group%2520%2528Modulo%2529.md) $G/H$:  
 > $G$ is [Solvable](Tower.md#solvable) if and only if $H$ and $G/H$ are [Solvable](Tower.md#solvable)

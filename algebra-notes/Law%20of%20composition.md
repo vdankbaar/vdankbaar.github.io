@@ -7,9 +7,9 @@ title: Law of Composition
 For a [Set](./Sets/Set.md) $S$:  
 $$S\times S \rightarrow S$$  
 ## Empty Product  
-The empty product is defined as returning the [Unit Element](./Unit%252520Element.md).  
+The empty product is defined as returning the [Unit Element](./Unit%2520Element.md).  
 ## Properties of Laws of Composition  
-- [Commutativity (Abelian)](./Commutativity%252520%2528Abelian%2529.md)  
+- [Commutativity (Abelian)](./Commutativity%2520%2528Abelian%2529.md)  
 - [Associativity](./Associativity.md)  
   
 ## Multiplicative  

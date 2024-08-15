@@ -5,5 +5,5 @@ title: Submonoid
 ---  
 # Submonoid  
 A subset $H$ is a submonoid of [Monoid](./Monoid.md) $G$ if:  
-- $H$ contains the [Unit Element](../Unit%252520Element.md)  
-- $H$ is [Closed](../Closure.md#closed-under-law-of-composition) under the [Law of composition](../Law%252520of%252520composition.md) of $G$
+- $H$ contains the [Unit Element](../Unit%2520Element.md)  
+- $H$ is [Closed](../Closure.md#closed-under-law-of-composition) under the [Law of composition](../Law%2520of%2520composition.md) of $G$
