@@ -1,8 +1,7 @@
 ---  
 date created: Sunday, August 4th 2024, 3:39:01 pm  
-date modified: Thursday, August 15th 2024, 12:32:10 pm  
+date modified: Thursday, August 15th 2024, 1:15:09 pm  
 title: Group-isomorphism  
-url_encoded_title: Group-isomorphism  
 ---  
 # Group-isomorphism  
 Group-isomorphism works similar to [Monoid-isomorphism](../../Monoids/Morphisms/Isomorphism.md).  
