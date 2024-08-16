@@ -5,24 +5,26 @@ date modified: Friday, August 16th 2024, 2:57:44 pm
 ---  
 # Extended Euclidean Algorithm  
 Given two starting numbers $a$ and $b$,  
-The extended Euclidean Algorithm starts with a run of the [Euclidean Algorithm](./Euclidean20Algorithm.md) to determine $GCD(a,b)$.  
-Given that the $GCD$ turns out to be 1,  
-Then some of the calculations of the [Euclidean Algorithm](./Euclidean20Algorithm.md) can then be substituted into one another to determine the inverse of $a$ modulo $b$.  
-  
+The extended Euclidean Algorithm is often used to determine the inverse of $a$ modulo $b$.  
 ## Traditional method  
+The Extended Euclidean Algorithm starts with a run of the [Euclidean Algorithm](./Euclidean20Algorithm.md) to determine the various divisors (also determining the $gcd(a,b)$ along the way).  
+Next the equations are written to take on the following form: $remainder = dividend-quotient * divisor$   
+These equations are then substituted into one another to retrieve an equation of the form:  
+$gcd(a,b)=x*a+y*b$  
+where if $gcd(a,b)=1$, $x$ is the inverse of $a$.  
 Below you can see the steps to the [Extended Euclidean Algorithm](Extended20Euclidean20Algorithm.md).  
-1. Start by calculating the modulo between $a$ and $b$ (33 and 19 respectively in this example)  
+1. Start by calculating the modulo between $a$ and $b$ (19 and 33 respectively in this example)  
 2. Iterate down repeating the modulo function till 0 is reached  
-3. Recreate the full equations of every step including the quotients (blue).  
+3. Recreate the full equations (including the quotients in blue).  
 4. Start with the bottom equation. Step-by-step substitute every equation into it till you reach the top.  
-5. The number that is being multiplied with $b$ is the inverse.   
+5. The number that is being multiplied with $a$ (19) is the inverse.   
 ![EEA-step-by-step.svg](./Images/EEA-step-by-step.svg)  
   
 ## Quick paper method  
-In my opinion, the traditional method is nice to get an understanding on how the EEA is supposed to work.  
-However, I found it to be quite time consuming doing every substitution and subsequent calculations, especially when I have multiple inverses I need to calculate.  
-Below I've written down a streamlined method based off the traditional calculations.  
-It gets the answer faster at the cost of being not immediately intuitive.   
+In my opinion, the traditional method is nice to get an understanding of how the EEA works.  
+However, I found it to be quite time consuming doing every substitution and subsequent calculations by hand. Especially when I have multiple inverses I need to calculate.  
+Below is a streamlined method based off the traditional calculations.  
+It gets the answer faster at the cost of being not very intuitive.   
 ![EEA-quick-paper-method.svg](./Images/EEA-quick-paper-method.svg)  
   
 ### Example $661^{-1}$ modulo $877$  
