@@ -18,7 +18,7 @@ A tower is [Cyclic](../Groups/Cyclic.md) if it is [Normal](../Groups/Normal.md) 
 ## Solvable  
 A tower is solvable if:  
 - It is [Abelian (Commutative)](../Commutativity2028Abelian29.md)  
-- Its last [Subgroups](../Groups/Subgroup.md) (eg. $G_n$) is [Trivial](../Groups/Subgroup.md#trivial).  
+- Its last [Subgroups](../Groups/Subgroup.md) (eg. $G_n$) is [Trivial](../Groups/Trivial.md).  
   
 >[!info] Solvability of [Group](../Groups/Group.md), [Subgroups](../Groups/Subgroup.md) and [Factor Group (Modulo)](../Groups/Factor20Group2028Modulo29.md)  
 > With a [Group](../Groups/Group.md) $G$, [Normal](../Groups/Normal.md) [Subgroups](../Groups/Subgroup.md) $H$ and a [Factor Group (Modulo)](../Groups/Factor20Group2028Modulo29.md) $G/H$:  

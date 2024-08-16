@@ -18,5 +18,5 @@ With:
 - A map $f: S \rightarrow G'$  
 If there exists a Group-homomorphism $\bar{f}: G \rightarrow G'$ that when restricted to $S$ is equivalent to $f$ then there can only exist one.  
   
-If the [Kernel](../Kernel.md) of a Group-homomorphism is trivial then the Group-homomorphism is [Injective](../../Mapping/Injective.md).  
+If the [Kernel](./Kernel.md) of a Group-homomorphism is [Trivial](../Trivial.md) then the Group-homomorphism is [Injective](../../Mapping/Injective.md).  
 If the Group-homomorphism is also [Surjective](../../Mapping/Surjective.md) then the Group-homomorphism is [Bijective](../../Mapping/Bijective.md), making the Group-homomorphism a [Group-isomorphism](./Group-isomorphism.md).

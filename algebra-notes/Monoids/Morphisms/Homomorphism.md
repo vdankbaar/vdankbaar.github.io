@@ -8,7 +8,7 @@ With [Monoids](../Monoid.md) $G$ and $G'$, a homomorphism (aka. monoid-homomorph
 $$f(xy) = f(x)f(y)$$  
 Simply put, composing elements before mapping is equivalent to mapping first and then composing.  
   
-> [!tldr] The [Unit Element](../../Unit20Element.md) in $G$ maps to the [Unit Element](../../Unit20Element.md) in $G'$   
+> [!info] The [Unit Element](../../Unit20Element.md) in $G$ maps to the [Unit Element](../../Unit20Element.md) in $G'$   
 > Given the [Unit Element](../../Unit20Element.md) $e$ from $G$ and the [Unit Element](../../Unit20Element.md) $e'$ from $G'$: $$f(e)=e'$$  
 > Proof:  
 > 1. Apply property of [Unit Element](../../Unit20Element.md): $f(e)=f(ee)$  

@@ -17,7 +17,7 @@ $G$ is the disjoint union of the left cosets of $H$ (same applied to right coset
   
 The number of cosets is called the index of $H$ in $G$.  
 It is denoted by $(G:H)$  
-The index of the trivial [Subgroup](./Subgroup.md) is called the [Order](./Order.md) can be denoted by $(G:1)$.  
+The index of the [Trivial](./Trivial.md) [Subgroup](./Subgroup.md) is called the [Order](./Order.md) can be denoted by $(G:1)$.  
   
 Example of the cosets produced by [Subgroup](./Subgroup.md) $H: \{0,4\}$ under the [Additive](../Law20of20composition.md#additive) [Group](./Group.md) $Z_8$.  
 ![Coset.svg](../_images/Coset.svg)
