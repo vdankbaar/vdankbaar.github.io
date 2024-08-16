@@ -1,12 +1,12 @@
 ---  
 title: Extended Euclidean Algorithm  
 date created: Friday, August 16th 2024, 2:57:00 pm  
-date modified: Friday, August 16th 2024, 2:57:44 pm  
+date modified: Friday, August 16th 2024, 4:57:36 pm  
 ---  
 # Extended Euclidean Algorithm  
 Given two starting numbers $a$ and $b$,  
 The extended Euclidean Algorithm is often used to determine the inverse of $a$ modulo $b$.  
-## Traditional method  
+## Traditional Method  
 The Extended Euclidean Algorithm starts with a run of the [Euclidean Algorithm](./Euclidean20Algorithm.md) to determine the various divisors (also determining the $gcd(a,b)$ along the way).  
 Next the equations are written to take on the following form: $remainder = dividend-quotient * divisor$   
 These equations are then substituted into one another to retrieve an equation of the form:  
@@ -20,7 +20,7 @@ Below you can see the steps to the [Extended Euclidean Algorithm](Extended20Eucl
 5. The number that is being multiplied with $a$ (19) is the inverse.   
 ![EEA-step-by-step.svg](./Images/EEA-step-by-step.svg)  
   
-## Quick paper method  
+## Quick Paper Method  
 In my opinion, the traditional method is nice to get an understanding of how the EEA works.  
 However, I found it to be quite time consuming doing every substitution and subsequent calculations by hand. Especially when I have multiple inverses I need to calculate.  
 Below is a streamlined method based off the traditional calculations.  
@@ -29,6 +29,7 @@ It gets the answer faster at the cost of being not very intuitive.
   
 ### Example $661^{-1}$ modulo $877$  
 Following the above diagram we generate the table below.  
+  
   
 | Step 1 | Step 2 | Step 3 |  
 | :----: | :----: | ------ |  
