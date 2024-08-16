@@ -1,7 +1,7 @@
 ---  
 title: Extended Euclidean Algorithm  
 date created: Friday, August 16th 2024, 2:57:00 pm  
-date modified: Friday, August 16th 2024, 4:57:36 pm  
+date modified: Friday, August 16th 2024, 5:04:53 pm  
 ---  
 # Extended Euclidean Algorithm  
 Given two starting numbers $a$ and $b$,  
@@ -30,7 +30,6 @@ It gets the answer faster at the cost of being not very intuitive.
 ### Example $661^{-1}$ modulo $877$  
 Following the above diagram we generate the table below.  
   
-  
 | Step 1 | Step 2 | Step 3 |  
 | :----: | :----: | ------ |  
 |  877   |        | -337   |  
@@ -43,5 +42,6 @@ Following the above diagram we generate the table below.
 |   2    |   -1   | 1      |  
 |   1    |   -    |        |  
 |   0    |        |        |  
+  
 The result is $-337$ which is $540$ mod $877$.  
 And sure enough $661*540\equiv1$ mod $877$.  
