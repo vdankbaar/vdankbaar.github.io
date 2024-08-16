@@ -8,9 +8,9 @@ Given two starting numbers $a$ and $b$,
 The extended Euclidean Algorithm is often used to determine the inverse of $a$ modulo $b$.  
 ## Traditional Method  
 The Extended Euclidean Algorithm starts with a run of the [Euclidean Algorithm](./Euclidean20Algorithm.md) to determine the various divisors (also determining the $gcd(a,b)$ along the way).  
-Next the equations are written to take on the following form: $remainder = dividend-quotient * divisor$   
-These equations are then substituted into one another to retrieve an equation of the form:  
-$gcd(a,b)=x*a+y*b$  
+Next the equations are written to take on the following form:  
+$remainder = dividend-quotient * divisor$   
+These equations are then substituted into one another to retrieve an equation of the form:$gcd(a,b)=x*a+y*b$  
 where if $gcd(a,b)=1$, $x$ is the inverse of $a$.  
 Below you can see the steps to the [Extended Euclidean Algorithm](Extended20Euclidean20Algorithm.md).  
 1. Start by calculating the modulo between $a$ and $b$ (19 and 33 respectively in this example)  
