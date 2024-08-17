@@ -1,6 +1,6 @@
 ---  
 date created: Thursday, August 1st 2024, 7:37:06 pm  
-date modified: Thursday, August 15th 2024, 1:15:09 pm  
+date modified: Saturday, August 17th 2024, 3:18:35 pm  
 title: Generator  
 ---  
 # Generator  
@@ -8,10 +8,9 @@ With a [Group](./Group.md) $G$ and a [Subset](../Sets/Subset.md) of $G$ called $
 The [Subset](../Sets/Subset.md) $S$ generates $G$ if all elements of $G$ can be expressed as a product of elements of $S$ and their inverses.  
 The [Set](../Sets/Set.md) of these various products becomes a [Subgroup](./Subgroup.md) of $G$ itself (the empty product is the [Unit Element](../Unit_Element.md)).  
   
->[Subset](../Sets/Subset.md) $S$ generates [Group](./Group.md) $G$ if and only if the smallest [Subgroup](./Subgroup.md) of $G$ containing all the elements of $S$ is $G$ itself  
+>[!info] $S$ generates $G$ if and only if the **smallest** [Subgroup](./Subgroup.md) of $G$ containing all the elements of $S$ is $G$ itself.  
   
-If this does not seem intuitive, remember that a [Subgroup](./Subgroup.md) requires  
-Given that $S$ generates $G$, any generated subgroup of $G$ containing $S$ will have at a minimum all of $G$'s elements. Due to this the smallest subgroup of $G$ will be $G$ itself, not smaller.  
+In other words, an element $a$ in [Group](./Group.md) $G$ is a Generator if the map $f: \mathbb{Z} \rightarrow G$ such that $f(n)=a^n$ (or $f(n)=an$ for additive) is [Surjective](../Mapping/Surjective.md).  
   
 Ways to write this property:  
 - $S$ is a [Set](../Sets/Set.md) of generators for $G$.   
