@@ -1,6 +1,6 @@
 ---  
 date created: Friday, August 2nd 2024, 1:59:25 pm  
-date modified: Thursday, August 15th 2024, 1:15:09 pm  
+date modified: Saturday, August 17th 2024, 3:18:35 pm  
 title: Homomorphism  
 ---  
 # Homomorphism  
