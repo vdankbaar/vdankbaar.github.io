@@ -1,7 +1,7 @@
 ---  
 title: Commutator Subgroup  
 date created: Thursday, August 15th 2024, 11:01:03 am  
-date modified: Thursday, August 15th 2024, 1:15:09 pm  
+date modified: Saturday, August 17th 2024, 3:18:35 pm  
 ---  
 # Commutator Subgroup  
 With [Group](./Group.md) $G$,  

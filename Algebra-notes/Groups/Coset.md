@@ -1,6 +1,6 @@
 ---  
 date created: Monday, August 5th 2024, 2:02:47 pm  
-date modified: Thursday, August 15th 2024, 1:15:09 pm  
+date modified: Saturday, August 17th 2024, 3:18:36 pm  
 title: Coset  
 ---  
 # Coset  
