@@ -6,6 +6,6 @@ date modified: Monday, September 2nd 2024, 3:55:16 pm
 # Advantage  
 The chance an adversary can distinguish the [Primitive](../Primitive.md) from its [Ideal](./Ideal.md) counterpart.  
 Using resources:  
-- $N$: amount of computation  
-- $M$: amount of input/output with access to the secret key (Queries)   
-- Memory usage sometimes specified  
+- Computation (or time) complexity $N$: amount of computation  
+- Online (or data) complexity $M$: amount of input/output with access to the secret key (Queries)   
+- Memory usage (sometimes specified)  
